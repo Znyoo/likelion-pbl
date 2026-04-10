@@ -1,5 +1,4 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, LikeLion!");
-    }
+        System.out.println("Hello, LikeLion! - 2nd Commit");    }
 }
